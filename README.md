@@ -1,12 +1,13 @@
 # Hi 👋 I'm Y Mengsea
 
-I'm a Year 4 Information Technology student and a trainee at **Korea Software HRD Center (KSHRD)**.  
-I’m focusing on **Full-Stack Web Development** and **iOS Development**, with a strong interest in building scalable, real-world applications.
+I'm a **Software Engineer**.
+I specialize in **Full-Stack Development** and **iOS Development**, with a growing passion for AI research and vibe coding stuff.
 
-- 🎓 Year 4 IT student  
 - 💼 Trainee at KSHRD  
-- 💻 Full-Stack & iOS Developer  
-- 🌱 Always learning and improving
+- 💻 Software Engineer focusing on Full-Stack & iOS Development
+- 🤖 Researching AI things & building fun side projects
+- 📹 Currently have fun with vibe coding
+- 🌱 Always experimenting and learning
 
 ---
 
@@ -56,7 +57,6 @@ A small-scale **iOS UI cloning project inspired by the ABA mobile application**,
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-meng-sea-50476a29a/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ymengsea)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isme_suyu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ymengsea-portfolio.vercel.app/)
 
