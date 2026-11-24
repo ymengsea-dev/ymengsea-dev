@@ -1,17 +1,15 @@
-# Hi 👋 I'm Y Mengsea
+# Hi I'm Y Mengsea
 
 I'm a **Software Engineer**.
-I specialize in **Full-Stack Development** and **iOS Development**, with a growing passion for AI research and vibe coding stuff.
+I specialize in **Full-Stack Development**, with a growing passion for AI research and vibe coding stuff.
 
-- 💼 Trainee at KSHRD  
-- 💻 Software Engineer focusing on Full-Stack & iOS Development
-- 🤖 Researching AI things & building fun side projects
-- 📹 Currently have fun with vibe coding
-- 🌱 Always experimenting and learning
+- Researching AI things & building fun side projects
+- Currently have fun with vibe coding
+- Always experimenting and learning
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,7 +36,7 @@ I specialize in **Full-Stack Development** and **iOS Development**, with a growi
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 Spring Boot Microservices Learning
 A self-learning project focused on **deeply understanding Spring Boot microservices architecture**, including service communication, configuration, and best practices.  
